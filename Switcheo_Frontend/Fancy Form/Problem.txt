@@ -1,5 +1,3 @@
-# Task
-
 Create a currency swap form based on the template provided in the folder.
 
 *You may use any third party plugin, library, and/or framework for this problem.*
